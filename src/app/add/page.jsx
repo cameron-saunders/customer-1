@@ -1,7 +1,7 @@
 export default function Page() {
     return (
       <>
-        <div className="bg-yellow-100 my-10 py-5">
+        <div className="bg-yellow-100 my-3 py-5 border-dashed border-4 border-red-300">
 
             <div className="max-w-md mx-auto p-6 bg-white rounded-lg shadow-md">
               <h1 className="text-3xl font-bold text-gray-800 mb-6">Add Customer</h1>
