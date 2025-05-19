@@ -9,6 +9,7 @@ export default function CustomersList() {
         <p>Jane Doe</p>
         <p>John Smith</p>
         <p>Lisa Baker</p>
+        <p>Mary Ann</p>
 
         
       </>
